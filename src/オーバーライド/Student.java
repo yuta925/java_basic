@@ -1,8 +1,6 @@
 package オーバーライド;
 
-import 継承.Person2;
-
-public class Student2 extends Person2 {
+public class Student extends Person {
 	private int stuNo;
 	
 	public void setStuNo(int s) {

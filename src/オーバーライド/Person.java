@@ -1,6 +1,6 @@
-package 継承;
+package オーバーライド;
 
-public class Person2 {
+public class Person {
 	private String name;
 	
 	public void setName(String n) {
