@@ -7,6 +7,6 @@ public class StuSample {
 		stu1.display();
 		Student stu2 = new Student("鈴木", BASE_NO + 2);
 		stu2.display();
-		BASE_NO = 2000;
+		// BASE_NO = 2000;
 	}
 }
