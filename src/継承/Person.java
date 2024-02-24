@@ -1,4 +1,4 @@
-package java入門;
+package 継承;
 
 public class Person {
 	private String name;

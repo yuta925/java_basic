@@ -1,4 +1,6 @@
-package java入門;
+package オーバーライド;
+
+import 継承.Student;
 
 public class StuSample {
 	public static void main(String[] args) {
